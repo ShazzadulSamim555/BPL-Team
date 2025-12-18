@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386703.png",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "type": "Both",
+    "price": "$220,000",
+    "team": "Fortune Barishal",
+    "jerseyNumber": 75
+  },
+  {
+    "id": 2,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/380000/380021.png",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "type": "Both",
+    "price": "$180,000",
+    "team": "Comilla Victorians",
+    "jerseyNumber": 6
+  },
+  {
+    "id": 3,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386705.png",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper-Batter",
+    "type": "Batter",
+    "price": "$150,000",
+    "team": "Rangpur Riders",
+    "jerseyNumber": 15
+  },
+  {
+    "id": 4,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386706.png",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Opening Batter",
+    "type": "Batter",
+    "price": "$140,000",
+    "team": "Fortune Barishal",
+    "jerseyNumber": 29
+  },
+  {
+    "id": 5,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386704.png",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Fast Bowler",
+    "type": "Bowler",
+    "price": "$170,000",
+    "team": "Comilla Victorians",
+    "jerseyNumber": 90
+  },
+  {
+    "id": 6,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/380000/380037.png",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-rounder",
+    "type": "Both",
+    "price": "$250,000",
+    "team": "Dhaka Dominators",
+    "jerseyNumber": 12
+  },
+  {
+    "id": 7,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386701.png",
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "type": "Both",
+    "price": "$130,000",
+    "team": "Chattogram Challengers",
+    "jerseyNumber": 30
+  },
+  {
+    "id": 8,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386709.png",
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper-Batter",
+    "type": "Batter",
+    "price": "$120,000",
+    "team": "Sylhet Strikers",
+    "jerseyNumber": 16
+  },
+  {
+    "id": 9,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386707.png",
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "role": "Fast Bowler",
+    "type": "Bowler",
+    "price": "$110,000",
+    "team": "Dhaka Dominators",
+    "jerseyNumber": 3
+  },
+  {
+    "id": 10,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/379800/379852.png",
+    "name": "Moeen Ali",
+    "country": "England",
+    "role": "All-rounder",
+    "type": "Both",
+    "price": "$160,000",
+    "team": "Comilla Victorians",
+    "jerseyNumber": 18
+  },
+  {
+    "id": 11,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/386700/386708.png",
+    "name": "Najmul Hossain Shanto",
+    "country": "Bangladesh",
+    "role": "Top-order Batter",
+    "type": "Batter",
+    "price": "$100,000",
+    "team": "Sylhet Strikers",
+    "jerseyNumber": 67
+  },
+  {
+    "id": 12,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/380000/380018.png",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Spin Bowler",
+    "type": "Bowler",
+    "price": "$200,000",
+    "team": "Rangpur Riders",
+    "jerseyNumber": 19
+  }
+]
