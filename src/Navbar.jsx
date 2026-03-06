@@ -2,7 +2,7 @@ import React from "react";
 import navImg from "./assets/logo.png"
 import coin from './assets/coin.webp'
 
-const Navbar = () => {
+const Navbar = ({available}) => {
   return (
     <div>
       <div className="navbar max-w-[1200px] mx-auto">
@@ -12,7 +12,7 @@ const Navbar = () => {
           </a>
         </div>
         <div className="flex space-x-3 items-center">
-          <span>60000000</span>
+          <span>{available}</span>
           <span>Coin</span>
           <img className="w-[20px] h-[20px]" src={coin} alt="" />
         </div>
